@@ -29,8 +29,26 @@
 - You can mute output of PC so you don't have to hear every song playing [[gif][mute]]
 - Songs will turn yellow while recording and green when recording is complete. [[pic][green]]
 
+## Troubleshooting/Questions
+
+#### Issues with Drag and Drop
+- Check if you can drag and drop Spotify songs into a Word document, if so then the issue is Recordify
+- We have found that installing python 3.5 x64 and [wxPython Pheonix](https://wxpython.org/Phoenix/snapshot-builds/) should solve your issues
+
+#### Issues with AdBlockers
+- If you are running Xeroday's EXBlocker, we have found that this makes Spotify unable to talk to Recordify, you will need to remove EXBlocker and reinstall Spotify.
+
+#### Where's the source code man???
+- This project is currently closed source :frowning: but we are working once it is at a stable place the plan is to make it open source.
+
 ## Legal
 As with DVR and other media playback services recorded media is intended for the sole purpose of the consumption of the recorder, and may not be distributed in any manner. The creator of this program is in no way responsible for any improper or illegal use of this program, and heavily discourages any such activities. 
+
+## Credits
+Thanks to the following projects without which this would not be possible
+- pyaudio_portaudio by intxcc
+- spotify-local-http-api by Carl Bystrom
+- ffmpeg
 
 [green]:https://github.com/ailgup/Recordify/blob/master/images/green.png?raw=true
 [play]:https://github.com/ailgup/Recordify/blob/master/images/play.gif?raw=true
