@@ -17,7 +17,7 @@
 
 ### Recording a song
 - Extract the ZIP file and run ```Recordify.exe```
-- Drag song(s) from Spotify to Recordify [[gif][drag]]
+- Drag song(s) from Spotify to Recordify <a href="https://github.com/ailgup/Recordify/blob/master/images/drag.gif?raw=true" target="_blank">[gif]</a>
 - Ensure correct playback device and bitrate are selected in Settings [[gif][settings]]
 - Ensure Spotify volume is at 100% [[pic][hundred]]
 - Ensure no other applications are making noise
@@ -38,5 +38,5 @@ As with DVR and other media playback services recorded media is intended for the
 [output]:https://github.com/ailgup/Recordify/blob/master/images/output.gif?raw=true
 [hundred]:https://github.com/ailgup/Recordify/blob/master/images/hundred.png?raw=true
 [settings]:https://github.com/ailgup/Recordify/blob/master/images/settings.gif?raw=true
-[drag]:https://github.com/ailgup/Recordify/blob/master/images/drag.gif?raw=true
+[drag]:
 [icon]: https://raw.github.com/ailgup/Recordify/master/images/icon.png
