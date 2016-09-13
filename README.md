@@ -38,5 +38,5 @@ As with DVR and other media playback services recorded media is intended for the
 [output]:https://github.com/ailgup/Recordify/blob/master/images/output.gif?raw=true
 [hundred]:https://github.com/ailgup/Recordify/blob/master/images/hundred.png?raw=true
 [settings]:https://github.com/ailgup/Recordify/blob/master/images/settings.gif?raw=true
-[drag]:https://github.com/ailgup/Recordify/blob/master/images/drag.gif
+[drag]:https://github.com/ailgup/Recordify/blob/master/images/drag.gif?raw=true
 [icon]: https://raw.github.com/ailgup/Recordify/master/images/icon.png
