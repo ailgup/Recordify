@@ -5,7 +5,7 @@
 - Record MP3's up to 320kbps
 - Automatically grabs song metadata and album art
 - Simply drag and drop songs from Spotify to Recordify
-- Uses WAPSI interface to record full digital audio (no cords needed!)
+- Uses WASAPI interface to record full digital audio (no cords needed!)
 - Detects ads and discards them from MP3 (beta)
 
 ## Getting Started
