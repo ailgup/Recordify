@@ -1,6 +1,8 @@
-# Recordify 
- ![icon] Windows based Spotify MP3 Recorder
-
+<table><tr><td>
+ <img src="https://raw.github.com/ailgup/Recordify/master/images/icon.png"></td><td>
+ <h1> Recordify </h1>
+ Windows based Spotify MP3 Recorder
+ </td></tr></table>
 ## Features
 - Record MP3's up to 320kbps
 - Automatically grabs song metadata and album art
@@ -57,4 +59,3 @@ Thanks to the following projects without which this would not be possible
 [hundred]:https://github.com/ailgup/Recordify/blob/master/images/hundred.png?raw=true
 [settings]:https://github.com/ailgup/Recordify/blob/master/images/settings.gif?raw=true
 [drag]:https://github.com/ailgup/Recordify/blob/master/images/drag.gif
-[icon]:https://raw.github.com/ailgup/Recordify/master/images/icon.png
