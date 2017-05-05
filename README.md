@@ -3,6 +3,7 @@
  <h1> Recordify </h1>
  Windows based Spotify MP3 Recorder
  </td></tr></table>
+ 
 ## Features
 - Record MP3's up to 320kbps
 - Automatically grabs song metadata and album art
@@ -12,7 +13,7 @@
 
 ## Getting Started
 ### Download Program
-[Recordify v1.1.2](https://github.com/ailgup/Recordify/releases/download/1.1.2/Recordify.1.1.2.zip)
+[Recordify v1.2](https://github.com/ailgup/Recordify/releases/download/1.2/Recordify.1.2.zip)
 ### Prerequisites
 - Spotify installed and running on PC
 - Internet connection
