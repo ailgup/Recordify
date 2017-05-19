@@ -22,7 +22,7 @@
 - Extract the ZIP file and run ```Recordify.exe```
 - Drag song(s) from Spotify to Recordify [[gif][drag]]
 - Ensure correct playback device and bitrate are selected in Settings [[gif][settings]]
-- Ensure Spotify volume is at 100% [[pic][hundred]]
+- For optimal results set Spotify volume to 30% [[pic][hundred]]
 - Ensure no other applications are making noise
 - Choose the desired output directory for the MP3's [[gif][output]]
 - Press Play! [[gif][play]]
@@ -37,9 +37,6 @@
 #### Issues with Drag and Drop
 - Check if you can drag and drop Spotify songs into a Word document, if so then the issue is Recordify
 - We have found that installing python 3.5 x64 and [wxPython Pheonix](https://wxpython.org/Phoenix/snapshot-builds/) should solve your issues
-
-#### Issues with AdBlockers
-- If you are running Xeroday's EXBlocker, we have found that this makes Spotify unable to talk to Recordify, you will need to remove EXBlocker and reinstall Spotify.
 
 #### Where's the source code man???
 - This project is currently closed source :frowning: but we are working once it is at a stable place the plan is to make it open source.
