@@ -45,6 +45,9 @@
 - This project is currently closed source :frowning: but we are working once it is at a stable place the plan is to make it open source.
 
 ## Legal
+In accordance with the [Audio Home Recording Act of 1992](https://en.wikipedia.org/wiki/Audio_Home_Recording_Act)
+> "**No action may be brought under this title alleging infringement of copyright** based on the manufacture, importation, or distribution of a digital audio recording device, a digital audio recording medium, an analog recording device, or an analog recording medium, or based **on the noncommercial use by a consumer** of such a device or medium for making digital musical recordings or analog musical recordings."
+
 As with DVR and other media playback services recorded media is intended for the sole purpose of the consumption of the recorder, and may not be distributed in any manner. The creator of this program is in no way responsible for any improper or illegal use of this program, and heavily discourages any such activities. 
 
 ## Credits
