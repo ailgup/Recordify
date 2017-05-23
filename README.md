@@ -13,7 +13,7 @@
 
 ## Getting Started
 ### Download Program
-[Recordify v1.2](https://github.com/ailgup/Recordify/releases/download/1.2/Recordify.1.2.zip)
+[Recordify v1.3](https://github.com/ailgup/Recordify/releases/download/1.3/Recordify.1.3.zip)
 ### Prerequisites
 - Spotify installed and running on PC
 - Internet connection
