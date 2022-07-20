@@ -1,3 +1,5 @@
+# Due to changes in the Spotify backend this technique of controlling the player using a localserver no longer works, therefore this codebase must be heavilly modified if one would hope to regain functionality, sorry!
+
 <table><tr><td>
  <img src="https://raw.github.com/ailgup/Recordify/master/images/icon.png"></td><td>
  <h1> Recordify </h1>
