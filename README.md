@@ -40,9 +40,6 @@
 - Check if you can drag and drop Spotify songs into a Word document, if so then the issue is Recordify
 - We have found that installing python 3.5 x64 and [wxPython Pheonix](https://wxpython.org/Phoenix/snapshot-builds/) should solve your issues
 
-#### Where's the source code man???
-- This project is currently closed source :frowning: but we are working once it is at a stable place the plan is to make it open source.
-
 ## Legal
 In accordance with the [Audio Home Recording Act of 1992](https://en.wikipedia.org/wiki/Audio_Home_Recording_Act)
 > "**No action may be brought under this title alleging infringement of copyright** based on the manufacture, importation, or distribution of a digital audio recording device, a digital audio recording medium, an analog recording device, or an analog recording medium, or based **on the noncommercial use by a consumer** of such a device or medium for making digital musical recordings or analog musical recordings."

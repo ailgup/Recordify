@@ -1,0 +1,9 @@
+build/
+!.gitignore
+/Recordify/.vs/Recordify/v14/.suo
+/Recordify/Recordify/__pycache__
+/__pycache__
+/UpgradeLog.htm
+/temp_album.jpg
+/creds.txt
+/temp_album.jpg
