@@ -549,7 +549,7 @@ class Recordify (wx.Frame):
         b.r.recordingSetup()
 
     def OnAboutBox(self, e):
-        wx.MessageBox('Recordify v1.1\n\n(C) 2016 Chris Puglia\n\nRecordify is a free program which records music played\non Spotify and saves it for future playback in a MP3 format.\nDO NOT DISTIBUTE COPYWRITTEN MUSIC RECORDED USING RECORDIFY.\nDoing so is illegal.',
+        wx.MessageBox('Recordify v1.1\n\n(C) 2016 \n\nRecordify is a free program which records music played\non Spotify and saves it for future playback in a MP3 format.\nDO NOT DISTIBUTE COPYWRITTEN MUSIC RECORDED USING RECORDIFY.\nDoing so is illegal.',
                       "Info",
                       wx.OK | wx.ICON_INFORMATION)
 
@@ -557,10 +557,8 @@ class Recordify (wx.Frame):
         # info.SetName('Recordify')
         # info.SetVersion('1.0')
         # info.SetDescription(description)
-        # info.SetCopyright('(C) 2016 Chris Puglia')
-        # info.SetWebSite('http://chrispuglia.com')
+        # info.SetCopyright('(C) 2016 ')
         # info.SetLicence(licence)
-        # info.AddDeveloper('Chris Puglia')
         # wx.adv.AboutBox(info)
     # def openDebug(self,event):
         # t = threading.Thread(target=DebugFrame, args=(self,))
