@@ -581,10 +581,8 @@ nJHLBy0qBh0u+jjNU3xS7yrf+EPXjjRumuR/CHvG6Qy7KDgAAAAASUVORK5CYII=
         info.SetName('Recordify')
         info.SetVersion('1.0')
         info.SetDescription(description)
-        info.SetCopyright('(C) 2016 Chris Puglia')
-        info.SetWebSite('http://chrispuglia.com')
+        info.SetCopyright('(C) 2016')
         info.SetLicence(licence)
-        info.AddDeveloper('Chris Puglia')
 
         wx.adv.AboutBox(info)
 
